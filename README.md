@@ -1,4 +1,4 @@
-# Routes.js
+# i40 Routes
 
 `routes` lets you easily dispatch based on url-style strings.  It comes with a default `Router` function that you can use to route http requests, but it also cleanly exposes the important functionality so you could also use it to perform more generic string pattern matching.
 
@@ -160,4 +160,4 @@ This library is an extraction and re-factor of the `connect` `router` middleware
 
 ## License
 
-This code is distributed under the MIT license, Copyright Aaron Blohowiak and TJ Holowaychuk 2011.
+This code is distributed under the MIT license, Copyright Mikela Clemmons 20114.

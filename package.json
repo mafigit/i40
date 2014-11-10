@@ -1,10 +1,10 @@
 {
-  "name": "routes",
+  "name": "i40",
   "description": "Minimalist route matching for javascript",
-  "version": "1.2.0",
-  "homepage": "https://github.com/aaronblohowiak/routes.js",
-  "repository": "https://github.com/aaronblohowiak/routes.js.git",
-  "author": "Aaron Blohowiak <aaron.blohowiak@gmail.com> (http://github.com/aaronblohowiak)",
+  "version": "1.0.0",
+  "homepage": "https://github.com/glassresistor/routes.js",
+  "repository": "https://github.com/glassresistor/routes.js.git",
+  "author": "Aaron Blohowiak <glassresistor@gmail.com> (http://github.com/glassresistor)",
   "main": "dist/routes",
   "directories": {
     "lib": "."
