@@ -15,7 +15,7 @@ This might make it useful for things like:
 The full range of `Path Formats` is documented below.
 
 ```js
-var Router = require('routes');
+var Router = require('i40');
 var router = Router();
 var noop = function(){};
 
