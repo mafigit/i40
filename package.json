@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "homepage": "https://github.com/glassresistor/routes.js",
   "repository": "https://github.com/glassresistor/routes.js.git",
-  "author": "Aaron Blohowiak <glassresistor@gmail.com> (http://github.com/glassresistor)",
+  "author": "Mikela Clemmons <glassresistor@gmail.com> (http://github.com/glassresistor)",
   "main": "dist/routes",
   "directories": {
     "lib": "."
