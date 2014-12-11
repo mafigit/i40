@@ -5,18 +5,15 @@
   "homepage": "https://github.com/glassresistor/routes.js",
   "repository": "https://github.com/glassresistor/routes.js.git",
   "author": "Mikela Clemmons <glassresistor@gmail.com> (http://github.com/glassresistor)",
-  "main": "dist/routes",
   "directories": {
     "lib": "."
   },
   "scripts": {
-    "test": "make test",
-    "prepublish": "mkdir -p dist/ && browserify --require ./index --standalone routes > dist/routes.js"
+    "test": "make test"
   },
   "engines": {
     "node": "*"
   },
   "devDependencies": {
-    "browserify": "^3.30.4"
   }
 }
