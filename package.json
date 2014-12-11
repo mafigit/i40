@@ -1,7 +1,7 @@
 {
   "name": "i40",
   "description": "Minimalist route matching for javascript",
-  "version": "1.0.0",
+  "version": "1.3.0",
   "homepage": "https://github.com/glassresistor/routes.js",
   "repository": "https://github.com/glassresistor/routes.js.git",
   "author": "Mikela Clemmons <glassresistor@gmail.com> (http://github.com/glassresistor)",
