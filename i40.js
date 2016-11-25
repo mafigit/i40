@@ -62,12 +62,13 @@ var I40 = function(){
         }
         keys.push(key);
         slash = slash || '';
-        return ''
+        var regex = ''
           + (optional ? '' : slash)
           + '(?:'
           + (optional ? slash : '')
-          + (format || '') + (capture || '([^/]+?)') + ')'
+          + (format || '') + ('([^/]+?)') + ')'
           + (optional || '');
+        return regex;
       })
       .replace(/([\/.])/g, '\\$1')
       .replace(/\*/g, '(.*)');
